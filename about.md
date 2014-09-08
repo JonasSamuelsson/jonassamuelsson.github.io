@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello! My name is Jonas Samuelsson. I'm a software developer living in Örebro, Sweden. I'm currently working at CAB, architecting & developing our CABAS system.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself. 
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+In my spare time I'm currently wrapping my head around ASP.NET MVC, Web API, SignalR and RavenDB.
