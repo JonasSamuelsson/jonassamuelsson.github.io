@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Hello!
 My name is Jonas Samuelsson. I'm a software developer living in Örebro, Sweden.
 
 I'm working at CAB, architecting & developing our CABAS system.
