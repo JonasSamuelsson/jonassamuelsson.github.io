@@ -7,7 +7,7 @@ I don't like the *expand file content* feature in Visual Studio Solution Explore
 Fortunately there is an easy way to disable it.
 
 1. Open regedit.
-2. Go to **HKEY_CURRENT_USER\Software\Microsoft\VisualStudio\[version]**.
+2. Go to **HKEY_CURRENT_USER\Software\Microsoft\VisualStudio\\{version}**.
 3. Add a new dword value named **UseSolutionNavigatorGraphProvider** with a value of **0**.
 4. Restart Visual Studio
 5. Enjoy :smiley:
