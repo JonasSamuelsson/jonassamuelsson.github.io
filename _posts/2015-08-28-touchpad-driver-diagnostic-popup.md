@@ -1,3 +1,7 @@
+---
+layout: post
+title: TouchPad Driver Diagnostic popup
+---
 After installing win 10 & vs2015 I have been getting a popup from TouchPad Driver Diagnostic every time I hit Shift+Alt+L.
 Fortunately this can be disabled
 
